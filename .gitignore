@@ -33,3 +33,10 @@ state_backup.json
 *_backup.py
 hypebot_original.py
 hypebot_backup_*.py
+
+# Temporary fix files
+fix_*.py
+insert_*.py
+gen_thought_*.py
+*_patch.py
+*_handler.txt
